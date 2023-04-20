@@ -1,5 +1,5 @@
 # TIQI
 
-Trapped Ion QUantum Information group - ETh Zürich
+Trapped Ion Quantum Information group - ETH Zürich
 
 https://tiqi.ethz.ch/
